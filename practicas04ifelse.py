@@ -1,0 +1,2 @@
+#variables
+cajas:bool=True
