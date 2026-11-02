@@ -12,8 +12,9 @@ def son_numeros(plastico: str) -> bool:
 
     for letra in plastico:
         if not es_numero(letra):
-            salida = False
-    return salida
+            todos_son_numeros= False
+
+    return todos_son_numeros
 
 
 # verificar que cada elemento es un numero
