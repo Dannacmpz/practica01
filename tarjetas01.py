@@ -11,3 +11,9 @@ def validar_tarjeta_visa(plastico:str)->bool:
         salida=True
 
     return salida
+print("plastico1" , validar_tarjeta_visa(plastico1))
+print("plastico2" , validar_tarjeta_visa(plastico2))
+print("plastico3" , validar_tarjeta_visa(plastico3))
+print("plastico4" , validar_tarjeta_visa(plastico4))
+print("plastico5" , validar_tarjeta_visa(plastico5))
+print("plastico6" , validar_tarjeta_visa(plastico6))
