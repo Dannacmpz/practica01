@@ -26,7 +26,6 @@ def limpiar_convertir_lista(plastico:str)->list [int]: #forma de quitar los guio
 
 
 
-
 if __name__=="__main__":
     #x:int=leer_entero("digite un numero: ")
     #print(x)
